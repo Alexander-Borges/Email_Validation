@@ -1,0 +1,13 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+}
+
+.container {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    background-color: dodgerblue;
+    height: 50vh;
+    border: 3px solid skyblue;
+}
